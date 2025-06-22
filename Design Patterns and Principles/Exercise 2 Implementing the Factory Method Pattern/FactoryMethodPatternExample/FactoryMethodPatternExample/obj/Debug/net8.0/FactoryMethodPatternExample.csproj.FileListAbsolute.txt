@@ -1,0 +1,14 @@
+C:\Users\KIIT\source\repos\FactoryMethodPatternExample\FactoryMethodPatternExample\bin\Debug\net8.0\FactoryMethodPatternExample.exe
+C:\Users\KIIT\source\repos\FactoryMethodPatternExample\FactoryMethodPatternExample\bin\Debug\net8.0\FactoryMethodPatternExample.deps.json
+C:\Users\KIIT\source\repos\FactoryMethodPatternExample\FactoryMethodPatternExample\bin\Debug\net8.0\FactoryMethodPatternExample.runtimeconfig.json
+C:\Users\KIIT\source\repos\FactoryMethodPatternExample\FactoryMethodPatternExample\bin\Debug\net8.0\FactoryMethodPatternExample.dll
+C:\Users\KIIT\source\repos\FactoryMethodPatternExample\FactoryMethodPatternExample\bin\Debug\net8.0\FactoryMethodPatternExample.pdb
+C:\Users\KIIT\source\repos\FactoryMethodPatternExample\FactoryMethodPatternExample\obj\Debug\net8.0\FactoryMethodPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\source\repos\FactoryMethodPatternExample\FactoryMethodPatternExample\obj\Debug\net8.0\FactoryMethodPatternExample.AssemblyInfoInputs.cache
+C:\Users\KIIT\source\repos\FactoryMethodPatternExample\FactoryMethodPatternExample\obj\Debug\net8.0\FactoryMethodPatternExample.AssemblyInfo.cs
+C:\Users\KIIT\source\repos\FactoryMethodPatternExample\FactoryMethodPatternExample\obj\Debug\net8.0\FactoryMethodPatternExample.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\source\repos\FactoryMethodPatternExample\FactoryMethodPatternExample\obj\Debug\net8.0\FactoryMethodPatternExample.dll
+C:\Users\KIIT\source\repos\FactoryMethodPatternExample\FactoryMethodPatternExample\obj\Debug\net8.0\refint\FactoryMethodPatternExample.dll
+C:\Users\KIIT\source\repos\FactoryMethodPatternExample\FactoryMethodPatternExample\obj\Debug\net8.0\FactoryMethodPatternExample.pdb
+C:\Users\KIIT\source\repos\FactoryMethodPatternExample\FactoryMethodPatternExample\obj\Debug\net8.0\FactoryMethodPatternExample.genruntimeconfig.cache
+C:\Users\KIIT\source\repos\FactoryMethodPatternExample\FactoryMethodPatternExample\obj\Debug\net8.0\ref\FactoryMethodPatternExample.dll

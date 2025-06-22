@@ -1,0 +1,14 @@
+C:\Users\KIIT\source\repos\FinancialForecasting\FinancialForecasting\bin\Debug\net8.0\FinancialForecasting.exe
+C:\Users\KIIT\source\repos\FinancialForecasting\FinancialForecasting\bin\Debug\net8.0\FinancialForecasting.deps.json
+C:\Users\KIIT\source\repos\FinancialForecasting\FinancialForecasting\bin\Debug\net8.0\FinancialForecasting.runtimeconfig.json
+C:\Users\KIIT\source\repos\FinancialForecasting\FinancialForecasting\bin\Debug\net8.0\FinancialForecasting.dll
+C:\Users\KIIT\source\repos\FinancialForecasting\FinancialForecasting\bin\Debug\net8.0\FinancialForecasting.pdb
+C:\Users\KIIT\source\repos\FinancialForecasting\FinancialForecasting\obj\Debug\net8.0\FinancialForecasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\source\repos\FinancialForecasting\FinancialForecasting\obj\Debug\net8.0\FinancialForecasting.AssemblyInfoInputs.cache
+C:\Users\KIIT\source\repos\FinancialForecasting\FinancialForecasting\obj\Debug\net8.0\FinancialForecasting.AssemblyInfo.cs
+C:\Users\KIIT\source\repos\FinancialForecasting\FinancialForecasting\obj\Debug\net8.0\FinancialForecasting.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\source\repos\FinancialForecasting\FinancialForecasting\obj\Debug\net8.0\FinancialForecasting.dll
+C:\Users\KIIT\source\repos\FinancialForecasting\FinancialForecasting\obj\Debug\net8.0\refint\FinancialForecasting.dll
+C:\Users\KIIT\source\repos\FinancialForecasting\FinancialForecasting\obj\Debug\net8.0\FinancialForecasting.pdb
+C:\Users\KIIT\source\repos\FinancialForecasting\FinancialForecasting\obj\Debug\net8.0\FinancialForecasting.genruntimeconfig.cache
+C:\Users\KIIT\source\repos\FinancialForecasting\FinancialForecasting\obj\Debug\net8.0\ref\FinancialForecasting.dll

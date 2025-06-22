@@ -1,0 +1,18 @@
+C:\Users\KIIT\source\repos\ECommercePlatformSearch\ECommercePlatformSearch\bin\Debug\net8.0\ECommercePlatformSearch.exe
+C:\Users\KIIT\source\repos\ECommercePlatformSearch\ECommercePlatformSearch\bin\Debug\net8.0\ECommercePlatformSearch.deps.json
+C:\Users\KIIT\source\repos\ECommercePlatformSearch\ECommercePlatformSearch\bin\Debug\net8.0\ECommercePlatformSearch.runtimeconfig.json
+C:\Users\KIIT\source\repos\ECommercePlatformSearch\ECommercePlatformSearch\bin\Debug\net8.0\ECommercePlatformSearch.dll
+C:\Users\KIIT\source\repos\ECommercePlatformSearch\ECommercePlatformSearch\bin\Debug\net8.0\ECommercePlatformSearch.pdb
+C:\Users\KIIT\source\repos\ECommercePlatformSearch\ECommercePlatformSearch\obj\Debug\net8.0\ECommercePlatformSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\source\repos\ECommercePlatformSearch\ECommercePlatformSearch\obj\Debug\net8.0\ECommercePlatformSearch.AssemblyInfoInputs.cache
+C:\Users\KIIT\source\repos\ECommercePlatformSearch\ECommercePlatformSearch\obj\Debug\net8.0\ECommercePlatformSearch.AssemblyInfo.cs
+C:\Users\KIIT\source\repos\ECommercePlatformSearch\ECommercePlatformSearch\obj\Debug\net8.0\ECommercePlatformSearch.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\source\repos\ECommercePlatformSearch\ECommercePlatformSearch\obj\Debug\net8.0\ECommercePlatformSearch.dll
+C:\Users\KIIT\source\repos\ECommercePlatformSearch\ECommercePlatformSearch\obj\Debug\net8.0\refint\ECommercePlatformSearch.dll
+C:\Users\KIIT\source\repos\ECommercePlatformSearch\ECommercePlatformSearch\obj\Debug\net8.0\ECommercePlatformSearch.pdb
+C:\Users\KIIT\source\repos\ECommercePlatformSearch\ECommercePlatformSearch\obj\Debug\net8.0\ECommercePlatformSearch.genruntimeconfig.cache
+C:\Users\KIIT\source\repos\ECommercePlatformSearch\ECommercePlatformSearch\obj\Debug\net8.0\ref\ECommercePlatformSearch.dll
+C:\Users\KIIT\Desktop\DN4.0 Hands-on solutions\WEEK-1\Algorithms & Data Structures\Exercise 2 E-commerce Platform Search Function\ECommercePlatformSearch\ECommercePlatformSearch\obj\Debug\net8.0\ECommercePlatformSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\DN4.0 Hands-on solutions\WEEK-1\Algorithms & Data Structures\Exercise 2 E-commerce Platform Search Function\ECommercePlatformSearch\ECommercePlatformSearch\obj\Debug\net8.0\ECommercePlatformSearch.dll
+C:\Users\KIIT\Desktop\DN4.0 Hands-on solutions\WEEK-1\Algorithms & Data Structures\Exercise 2 E-commerce Platform Search Function\ECommercePlatformSearch\ECommercePlatformSearch\obj\Debug\net8.0\refint\ECommercePlatformSearch.dll
+C:\Users\KIIT\Desktop\DN4.0 Hands-on solutions\WEEK-1\Algorithms & Data Structures\Exercise 2 E-commerce Platform Search Function\ECommercePlatformSearch\ECommercePlatformSearch\obj\Debug\net8.0\ECommercePlatformSearch.pdb
