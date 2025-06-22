@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KIIT\\Desktop\\DN4.0 Hands-on solutions\\WEEK-1\\Design Patterns and Principles\\Exercise 1 Implementing the Singleton Pattern\\SingletonPatternExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC0CCAC-510B-445F-B13F-ED510D2E4685}|SingletonPatternExample\\SingletonPatternExample.csproj|c:\\users\\kiit\\desktop\\dn4.0 hands-on solutions\\week-1\\design patterns and principles\\exercise 1 implementing the singleton pattern\\singletonpatternexample\\singletonpatternexample\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC0CCAC-510B-445F-B13F-ED510D2E4685}|SingletonPatternExample\\SingletonPatternExample.csproj|solutionrelative:singletonpatternexample\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC0CCAC-510B-445F-B13F-ED510D2E4685}|SingletonPatternExample\\SingletonPatternExample.csproj|c:\\users\\kiit\\desktop\\dn4.0 hands-on solutions\\week-1\\design patterns and principles\\exercise 1 implementing the singleton pattern\\singletonpatternexample\\singletonpatternexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC0CCAC-510B-445F-B13F-ED510D2E4685}|SingletonPatternExample\\SingletonPatternExample.csproj|solutionrelative:singletonpatternexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DN4.0 Hands-on solutions\\WEEK-1\\Design Patterns and Principles\\Exercise 1 Implementing the Singleton Pattern\\SingletonPatternExample\\SingletonPatternExample\\Logger.cs",
+              "RelativeDocumentMoniker": "SingletonPatternExample\\Logger.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DN4.0 Hands-on solutions\\WEEK-1\\Design Patterns and Principles\\Exercise 1 Implementing the Singleton Pattern\\SingletonPatternExample\\SingletonPatternExample\\Logger.cs",
+              "RelativeToolTip": "SingletonPatternExample\\Logger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T16:47:03.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DN4.0 Hands-on solutions\\WEEK-1\\Design Patterns and Principles\\Exercise 1 Implementing the Singleton Pattern\\SingletonPatternExample\\SingletonPatternExample\\Program.cs",
+              "RelativeDocumentMoniker": "SingletonPatternExample\\Program.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DN4.0 Hands-on solutions\\WEEK-1\\Design Patterns and Principles\\Exercise 1 Implementing the Singleton Pattern\\SingletonPatternExample\\SingletonPatternExample\\Program.cs",
+              "RelativeToolTip": "SingletonPatternExample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T16:43:50.008Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
