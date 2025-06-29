@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KIIT\\Desktop\\DN4.0 Hands-on solutions\\WEEK-2\\NUnit-Handson\\CalcLibrary.Tests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9356A956-1603-4D9C-85AC-F1FBA1D1C818}|CalcLibrary.Tests\\CalcLibrary.Tests.csproj|c:\\users\\kiit\\desktop\\dn4.0 hands-on solutions\\week-2\\nunit-handson\\calclibrary.tests\\calclibrary.tests\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9356A956-1603-4D9C-85AC-F1FBA1D1C818}|CalcLibrary.Tests\\CalcLibrary.Tests.csproj|solutionrelative:calclibrary.tests\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9356A956-1603-4D9C-85AC-F1FBA1D1C818}|CalcLibrary.Tests\\CalcLibrary.Tests.csproj|c:\\users\\kiit\\desktop\\dn4.0 hands-on solutions\\week-2\\nunit-handson\\calclibrary.tests\\calclibrary.tests\\calclibrary.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9356A956-1603-4D9C-85AC-F1FBA1D1C818}|CalcLibrary.Tests\\CalcLibrary.Tests.csproj|solutionrelative:calclibrary.tests\\calclibrary.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF6E3F8E-F947-4B48-A24F-C43B0517D049}|CalcLibrary\\CalcLibrary.csproj|c:\\users\\kiit\\desktop\\dn4.0 hands-on solutions\\week-2\\nunit-handson\\calclibrary.tests\\calclibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF6E3F8E-F947-4B48-A24F-C43B0517D049}|CalcLibrary\\CalcLibrary.csproj|solutionrelative:calclibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9356A956-1603-4D9C-85AC-F1FBA1D1C818}|CalcLibrary.Tests\\CalcLibrary.Tests.csproj|c:\\users\\kiit\\desktop\\dn4.0 hands-on solutions\\week-2\\nunit-handson\\calclibrary.tests\\calclibrary.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9356A956-1603-4D9C-85AC-F1FBA1D1C818}|CalcLibrary.Tests\\CalcLibrary.Tests.csproj|solutionrelative:calclibrary.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DN4.0 Hands-on solutions\\WEEK-2\\NUnit-Handson\\CalcLibrary.Tests\\CalcLibrary.Tests\\CalculatorTests.cs",
+              "RelativeDocumentMoniker": "CalcLibrary.Tests\\CalculatorTests.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DN4.0 Hands-on solutions\\WEEK-2\\NUnit-Handson\\CalcLibrary.Tests\\CalcLibrary.Tests\\CalculatorTests.cs",
+              "RelativeToolTip": "CalcLibrary.Tests\\CalculatorTests.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T13:23:17.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalcLibrary.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DN4.0 Hands-on solutions\\WEEK-2\\NUnit-Handson\\CalcLibrary.Tests\\CalcLibrary.Tests\\CalcLibrary.Tests.csproj",
+              "RelativeDocumentMoniker": "CalcLibrary.Tests\\CalcLibrary.Tests.csproj",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DN4.0 Hands-on solutions\\WEEK-2\\NUnit-Handson\\CalcLibrary.Tests\\CalcLibrary.Tests\\CalcLibrary.Tests.csproj",
+              "RelativeToolTip": "CalcLibrary.Tests\\CalcLibrary.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-29T13:21:19.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DN4.0 Hands-on solutions\\WEEK-2\\NUnit-Handson\\CalcLibrary.Tests\\CalcLibrary\\Class1.cs",
+              "RelativeDocumentMoniker": "CalcLibrary\\Class1.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DN4.0 Hands-on solutions\\WEEK-2\\NUnit-Handson\\CalcLibrary.Tests\\CalcLibrary\\Class1.cs",
+              "RelativeToolTip": "CalcLibrary\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T13:18:27.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DN4.0 Hands-on solutions\\WEEK-2\\NUnit-Handson\\CalcLibrary.Tests\\CalcLibrary.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "CalcLibrary.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DN4.0 Hands-on solutions\\WEEK-2\\NUnit-Handson\\CalcLibrary.Tests\\CalcLibrary.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "CalcLibrary.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T13:07:24.159Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

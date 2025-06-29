@@ -1,0 +1,6 @@
+C:\Users\KIIT\source\repos\CustomerCommLib\CustomerCommLib\bin\Debug\CustomerCommLib.dll
+C:\Users\KIIT\source\repos\CustomerCommLib\CustomerCommLib\bin\Debug\CustomerCommLib.pdb
+C:\Users\KIIT\source\repos\CustomerCommLib\CustomerCommLib\obj\Debug\CustomerCommLib.csproj.AssemblyReference.cache
+C:\Users\KIIT\source\repos\CustomerCommLib\CustomerCommLib\obj\Debug\CustomerCommLib.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\source\repos\CustomerCommLib\CustomerCommLib\obj\Debug\CustomerCommLib.dll
+C:\Users\KIIT\source\repos\CustomerCommLib\CustomerCommLib\obj\Debug\CustomerCommLib.pdb

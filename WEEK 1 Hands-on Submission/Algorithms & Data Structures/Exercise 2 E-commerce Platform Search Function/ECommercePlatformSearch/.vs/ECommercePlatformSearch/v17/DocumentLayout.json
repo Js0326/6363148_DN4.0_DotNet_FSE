@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\KIIT\\Desktop\\DN4.0 Hands-on solutions\\WEEK-1\\Algorithms \u0026 Data Structures\\Exercise 2 E-commerce Platform Search Function\\ECommercePlatformSearch\\",
+  "WorkspaceRootPath": "C:\\Users\\KIIT\\Desktop\\DN4.0 Hands-on solutions\\WEEK-1\\WEEK 1 Hands-on Submission\\Algorithms \u0026 Data Structures\\Exercise 2 E-commerce Platform Search Function\\ECommercePlatformSearch\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5BCA8C42-ECA2-4D1E-B8B7-392A17063B55}|ECommercePlatformSearch\\ECommercePlatformSearch.csproj|c:\\users\\kiit\\desktop\\dn4.0 hands-on solutions\\week-1\\algorithms \u0026 data structures\\exercise 2 e-commerce platform search function\\ecommerceplatformsearch\\ecommerceplatformsearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BCA8C42-ECA2-4D1E-B8B7-392A17063B55}|ECommercePlatformSearch\\ECommercePlatformSearch.csproj|solutionrelative:ecommerceplatformsearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\KIIT\\Desktop\\DN4.0 Hands-on solutions\\WEEK-1\\WEEK 1 Hands-on Submission\\Algorithms \u0026 Data Structures\\Exercise 2 E-commerce Platform Search Function\\ECommercePlatformSearch\\ECommercePlatformSearch\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ECommercePlatformSearch\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BCA8C42-ECA2-4D1E-B8B7-392A17063B55}|ECommercePlatformSearch\\ECommercePlatformSearch.csproj|c:\\users\\kiit\\desktop\\dn4.0 hands-on solutions\\week-1\\algorithms \u0026 data structures\\exercise 2 e-commerce platform search function\\ecommerceplatformsearch\\ecommerceplatformsearch\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BCA8C42-ECA2-4D1E-B8B7-392A17063B55}|ECommercePlatformSearch\\ECommercePlatformSearch.csproj|solutionrelative:ecommerceplatformsearch\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\KIIT\\Desktop\\DN4.0 Hands-on solutions\\WEEK-1\\WEEK 1 Hands-on Submission\\Algorithms \u0026 Data Structures\\Exercise 2 E-commerce Platform Search Function\\ECommercePlatformSearch\\ECommercePlatformSearch\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ECommercePlatformSearch\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BCA8C42-ECA2-4D1E-B8B7-392A17063B55}|ECommercePlatformSearch\\ECommercePlatformSearch.csproj|c:\\users\\kiit\\desktop\\dn4.0 hands-on solutions\\week-1\\algorithms \u0026 data structures\\exercise 2 e-commerce platform search function\\ecommerceplatformsearch\\ecommerceplatformsearch\\searchfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BCA8C42-ECA2-4D1E-B8B7-392A17063B55}|ECommercePlatformSearch\\ECommercePlatformSearch.csproj|solutionrelative:ecommerceplatformsearch\\searchfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\KIIT\\Desktop\\DN4.0 Hands-on solutions\\WEEK-1\\WEEK 1 Hands-on Submission\\Algorithms \u0026 Data Structures\\Exercise 2 E-commerce Platform Search Function\\ECommercePlatformSearch\\ECommercePlatformSearch\\SearchFunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ECommercePlatformSearch\\SearchFunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,9 +28,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DN4.0 Hands-on solutions\\WEEK-1\\Algorithms \u0026 Data Structures\\Exercise 2 E-commerce Platform Search Function\\ECommercePlatformSearch\\ECommercePlatformSearch\\Product.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DN4.0 Hands-on solutions\\WEEK-1\\WEEK 1 Hands-on Submission\\Algorithms \u0026 Data Structures\\Exercise 2 E-commerce Platform Search Function\\ECommercePlatformSearch\\ECommercePlatformSearch\\Product.cs",
               "RelativeDocumentMoniker": "ECommercePlatformSearch\\Product.cs",
-              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DN4.0 Hands-on solutions\\WEEK-1\\Algorithms \u0026 Data Structures\\Exercise 2 E-commerce Platform Search Function\\ECommercePlatformSearch\\ECommercePlatformSearch\\Product.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DN4.0 Hands-on solutions\\WEEK-1\\WEEK 1 Hands-on Submission\\Algorithms \u0026 Data Structures\\Exercise 2 E-commerce Platform Search Function\\ECommercePlatformSearch\\ECommercePlatformSearch\\Product.cs",
               "RelativeToolTip": "ECommercePlatformSearch\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -40,9 +40,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "SearchFunctions.cs",
-              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DN4.0 Hands-on solutions\\WEEK-1\\Algorithms \u0026 Data Structures\\Exercise 2 E-commerce Platform Search Function\\ECommercePlatformSearch\\ECommercePlatformSearch\\SearchFunctions.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DN4.0 Hands-on solutions\\WEEK-1\\WEEK 1 Hands-on Submission\\Algorithms \u0026 Data Structures\\Exercise 2 E-commerce Platform Search Function\\ECommercePlatformSearch\\ECommercePlatformSearch\\SearchFunctions.cs",
               "RelativeDocumentMoniker": "ECommercePlatformSearch\\SearchFunctions.cs",
-              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DN4.0 Hands-on solutions\\WEEK-1\\Algorithms \u0026 Data Structures\\Exercise 2 E-commerce Platform Search Function\\ECommercePlatformSearch\\ECommercePlatformSearch\\SearchFunctions.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DN4.0 Hands-on solutions\\WEEK-1\\WEEK 1 Hands-on Submission\\Algorithms \u0026 Data Structures\\Exercise 2 E-commerce Platform Search Function\\ECommercePlatformSearch\\ECommercePlatformSearch\\SearchFunctions.cs",
               "RelativeToolTip": "ECommercePlatformSearch\\SearchFunctions.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAYwCcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -52,9 +52,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DN4.0 Hands-on solutions\\WEEK-1\\Algorithms \u0026 Data Structures\\Exercise 2 E-commerce Platform Search Function\\ECommercePlatformSearch\\ECommercePlatformSearch\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DN4.0 Hands-on solutions\\WEEK-1\\WEEK 1 Hands-on Submission\\Algorithms \u0026 Data Structures\\Exercise 2 E-commerce Platform Search Function\\ECommercePlatformSearch\\ECommercePlatformSearch\\Program.cs",
               "RelativeDocumentMoniker": "ECommercePlatformSearch\\Program.cs",
-              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DN4.0 Hands-on solutions\\WEEK-1\\Algorithms \u0026 Data Structures\\Exercise 2 E-commerce Platform Search Function\\ECommercePlatformSearch\\ECommercePlatformSearch\\Program.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DN4.0 Hands-on solutions\\WEEK-1\\WEEK 1 Hands-on Submission\\Algorithms \u0026 Data Structures\\Exercise 2 E-commerce Platform Search Function\\ECommercePlatformSearch\\ECommercePlatformSearch\\Program.cs",
               "RelativeToolTip": "ECommercePlatformSearch\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAwBAAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

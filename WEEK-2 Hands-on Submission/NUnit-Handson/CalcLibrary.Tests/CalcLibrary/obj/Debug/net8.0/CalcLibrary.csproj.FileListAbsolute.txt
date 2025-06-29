@@ -1,0 +1,22 @@
+C:\Users\KIIT\source\repos\CalcLibrary.Tests\CalcLibrary\bin\Debug\net8.0\CalcLibrary.deps.json
+C:\Users\KIIT\source\repos\CalcLibrary.Tests\CalcLibrary\bin\Debug\net8.0\CalcLibrary.dll
+C:\Users\KIIT\source\repos\CalcLibrary.Tests\CalcLibrary\bin\Debug\net8.0\CalcLibrary.pdb
+C:\Users\KIIT\source\repos\CalcLibrary.Tests\CalcLibrary\obj\Debug\net8.0\CalcLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\source\repos\CalcLibrary.Tests\CalcLibrary\obj\Debug\net8.0\CalcLibrary.AssemblyInfoInputs.cache
+C:\Users\KIIT\source\repos\CalcLibrary.Tests\CalcLibrary\obj\Debug\net8.0\CalcLibrary.AssemblyInfo.cs
+C:\Users\KIIT\source\repos\CalcLibrary.Tests\CalcLibrary\obj\Debug\net8.0\CalcLibrary.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\source\repos\CalcLibrary.Tests\CalcLibrary\obj\Debug\net8.0\CalcLibrary.dll
+C:\Users\KIIT\source\repos\CalcLibrary.Tests\CalcLibrary\obj\Debug\net8.0\refint\CalcLibrary.dll
+C:\Users\KIIT\source\repos\CalcLibrary.Tests\CalcLibrary\obj\Debug\net8.0\CalcLibrary.pdb
+C:\Users\KIIT\source\repos\CalcLibrary.Tests\CalcLibrary\obj\Debug\net8.0\ref\CalcLibrary.dll
+C:\Users\KIIT\Desktop\DN4.0 Hands-on solutions\WEEK-2\NUnit-Handson\CalcLibrary.Tests\CalcLibrary\bin\Debug\net8.0\CalcLibrary.deps.json
+C:\Users\KIIT\Desktop\DN4.0 Hands-on solutions\WEEK-2\NUnit-Handson\CalcLibrary.Tests\CalcLibrary\bin\Debug\net8.0\CalcLibrary.dll
+C:\Users\KIIT\Desktop\DN4.0 Hands-on solutions\WEEK-2\NUnit-Handson\CalcLibrary.Tests\CalcLibrary\bin\Debug\net8.0\CalcLibrary.pdb
+C:\Users\KIIT\Desktop\DN4.0 Hands-on solutions\WEEK-2\NUnit-Handson\CalcLibrary.Tests\CalcLibrary\obj\Debug\net8.0\CalcLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\DN4.0 Hands-on solutions\WEEK-2\NUnit-Handson\CalcLibrary.Tests\CalcLibrary\obj\Debug\net8.0\CalcLibrary.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\DN4.0 Hands-on solutions\WEEK-2\NUnit-Handson\CalcLibrary.Tests\CalcLibrary\obj\Debug\net8.0\CalcLibrary.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\DN4.0 Hands-on solutions\WEEK-2\NUnit-Handson\CalcLibrary.Tests\CalcLibrary\obj\Debug\net8.0\CalcLibrary.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\DN4.0 Hands-on solutions\WEEK-2\NUnit-Handson\CalcLibrary.Tests\CalcLibrary\obj\Debug\net8.0\CalcLibrary.dll
+C:\Users\KIIT\Desktop\DN4.0 Hands-on solutions\WEEK-2\NUnit-Handson\CalcLibrary.Tests\CalcLibrary\obj\Debug\net8.0\refint\CalcLibrary.dll
+C:\Users\KIIT\Desktop\DN4.0 Hands-on solutions\WEEK-2\NUnit-Handson\CalcLibrary.Tests\CalcLibrary\obj\Debug\net8.0\CalcLibrary.pdb
+C:\Users\KIIT\Desktop\DN4.0 Hands-on solutions\WEEK-2\NUnit-Handson\CalcLibrary.Tests\CalcLibrary\obj\Debug\net8.0\ref\CalcLibrary.dll
