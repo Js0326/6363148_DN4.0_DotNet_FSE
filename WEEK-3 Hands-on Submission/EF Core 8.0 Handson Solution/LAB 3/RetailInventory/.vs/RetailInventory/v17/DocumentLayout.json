@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KIIT\\source\\repos\\RetailInventory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{561C8DA7-E59E-4C8F-BC1D-5E5B67D0668F}|RetailInventory\\RetailInventory.csproj|c:\\users\\kiit\\source\\repos\\retailinventory\\retailinventory\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561C8DA7-E59E-4C8F-BC1D-5E5B67D0668F}|RetailInventory\\RetailInventory.csproj|solutionrelative:retailinventory\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561C8DA7-E59E-4C8F-BC1D-5E5B67D0668F}|RetailInventory\\RetailInventory.csproj|c:\\users\\kiit\\source\\repos\\retailinventory\\retailinventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561C8DA7-E59E-4C8F-BC1D-5E5B67D0668F}|RetailInventory\\RetailInventory.csproj|solutionrelative:retailinventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\source\\repos\\RetailInventory\\RetailInventory\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "RetailInventory\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\KIIT\\source\\repos\\RetailInventory\\RetailInventory\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "RetailInventory\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T17:41:49.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\source\\repos\\RetailInventory\\RetailInventory\\Program.cs",
+              "RelativeDocumentMoniker": "RetailInventory\\Program.cs",
+              "ToolTip": "C:\\Users\\KIIT\\source\\repos\\RetailInventory\\RetailInventory\\Program.cs",
+              "RelativeToolTip": "RetailInventory\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T15:43:02.782Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
