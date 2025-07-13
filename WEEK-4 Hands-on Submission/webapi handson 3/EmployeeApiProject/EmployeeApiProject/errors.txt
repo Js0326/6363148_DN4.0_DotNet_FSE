@@ -1,0 +1,2 @@
+[13-07-2025 23:42:44] Test exception handling
+[13-07-2025 23:42:56] Test exception handling

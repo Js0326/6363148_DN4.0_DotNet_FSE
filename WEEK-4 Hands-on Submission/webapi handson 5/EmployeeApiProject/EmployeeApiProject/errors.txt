@@ -1,0 +1,4 @@
+[13-07-2025 23:42:44] Test exception handling
+[13-07-2025 23:42:56] Test exception handling
+[14-07-2025 01:05:31] IDX10720: Unable to create KeyedHashAlgorithm for algorithm 'HS256', the key size must be greater than: '256' bits, key has '144' bits. (Parameter 'keyBytes')
+[14-07-2025 01:05:59] IDX10720: Unable to create KeyedHashAlgorithm for algorithm 'HS256', the key size must be greater than: '256' bits, key has '144' bits. (Parameter 'keyBytes')

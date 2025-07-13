@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KIIT\\source\\repos\\SwaggerDemoApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{864BE89F-7CA9-4DF0-A550-34ACEB217436}|SwaggerDemoApi\\SwaggerDemoApi.csproj|c:\\users\\kiit\\source\\repos\\swaggerdemoapi\\swaggerdemoapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864BE89F-7CA9-4DF0-A550-34ACEB217436}|SwaggerDemoApi\\SwaggerDemoApi.csproj|solutionrelative:swaggerdemoapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864BE89F-7CA9-4DF0-A550-34ACEB217436}|SwaggerDemoApi\\SwaggerDemoApi.csproj|c:\\users\\kiit\\source\\repos\\swaggerdemoapi\\swaggerdemoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864BE89F-7CA9-4DF0-A550-34ACEB217436}|SwaggerDemoApi\\SwaggerDemoApi.csproj|solutionrelative:swaggerdemoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\source\\repos\\SwaggerDemoApi\\SwaggerDemoApi\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "SwaggerDemoApi\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\KIIT\\source\\repos\\SwaggerDemoApi\\SwaggerDemoApi\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "SwaggerDemoApi\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAwCcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T15:59:39.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\source\\repos\\SwaggerDemoApi\\SwaggerDemoApi\\Program.cs",
+              "RelativeDocumentMoniker": "SwaggerDemoApi\\Program.cs",
+              "ToolTip": "C:\\Users\\KIIT\\source\\repos\\SwaggerDemoApi\\SwaggerDemoApi\\Program.cs",
+              "RelativeToolTip": "SwaggerDemoApi\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAQwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T15:44:22.985Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
