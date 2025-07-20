@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FT1A9fT1H+0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KIIT\\source\\repos\\KafkaChatConsumer\\KafkaChatConsumer\\KafkaChatConsumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KIIT\\.nuget\\packages\\confluent.kafka\\2.11.0\\confluent.kafka.2.11.0.nupkg.sha512",
+    "C:\\Users\\KIIT\\.nuget\\packages\\librdkafka.redist\\2.11.0\\librdkafka.redist.2.11.0.nupkg.sha512"
+  ],
+  "logs": []
+}

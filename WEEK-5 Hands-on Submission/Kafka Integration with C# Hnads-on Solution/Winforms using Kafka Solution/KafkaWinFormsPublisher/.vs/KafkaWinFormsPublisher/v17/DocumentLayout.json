@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KIIT\\source\\repos\\KafkaWinFormsPublisher\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E674F7E-5BB2-4D3B-B97A-3AB503046B91}|KafkaWinFormsPublisher\\KafkaWinFormsPublisher.csproj|c:\\users\\kiit\\source\\repos\\kafkawinformspublisher\\kafkawinformspublisher\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3E674F7E-5BB2-4D3B-B97A-3AB503046B91}|KafkaWinFormsPublisher\\KafkaWinFormsPublisher.csproj|solutionrelative:kafkawinformspublisher\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E674F7E-5BB2-4D3B-B97A-3AB503046B91}|KafkaWinFormsPublisher\\KafkaWinFormsPublisher.csproj|c:\\users\\kiit\\source\\repos\\kafkawinformspublisher\\kafkawinformspublisher\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E674F7E-5BB2-4D3B-B97A-3AB503046B91}|KafkaWinFormsPublisher\\KafkaWinFormsPublisher.csproj|solutionrelative:kafkawinformspublisher\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E674F7E-5BB2-4D3B-B97A-3AB503046B91}|KafkaWinFormsPublisher\\KafkaWinFormsPublisher.csproj|c:\\users\\kiit\\source\\repos\\kafkawinformspublisher\\kafkawinformspublisher\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E674F7E-5BB2-4D3B-B97A-3AB503046B91}|KafkaWinFormsPublisher\\KafkaWinFormsPublisher.csproj|solutionrelative:kafkawinformspublisher\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\source\\repos\\KafkaWinFormsPublisher\\KafkaWinFormsPublisher\\Form1.cs",
+              "RelativeDocumentMoniker": "KafkaWinFormsPublisher\\Form1.cs",
+              "ToolTip": "C:\\Users\\KIIT\\source\\repos\\KafkaWinFormsPublisher\\KafkaWinFormsPublisher\\Form1.cs",
+              "RelativeToolTip": "KafkaWinFormsPublisher\\Form1.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T17:14:18.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\source\\repos\\KafkaWinFormsPublisher\\KafkaWinFormsPublisher\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "KafkaWinFormsPublisher\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\KIIT\\source\\repos\\KafkaWinFormsPublisher\\KafkaWinFormsPublisher\\Form1.Designer.cs",
+              "RelativeToolTip": "KafkaWinFormsPublisher\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T17:01:11.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KIIT\\source\\repos\\KafkaWinFormsPublisher\\KafkaWinFormsPublisher\\Form1.cs",
+              "RelativeDocumentMoniker": "KafkaWinFormsPublisher\\Form1.cs",
+              "ToolTip": "C:\\Users\\KIIT\\source\\repos\\KafkaWinFormsPublisher\\KafkaWinFormsPublisher\\Form1.cs [Design]",
+              "RelativeToolTip": "KafkaWinFormsPublisher\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T16:59:04.22Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

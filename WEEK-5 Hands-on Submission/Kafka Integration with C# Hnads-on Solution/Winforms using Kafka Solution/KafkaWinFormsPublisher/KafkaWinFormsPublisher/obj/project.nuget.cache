@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ILCDYVuZB/A=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KIIT\\source\\repos\\KafkaWinFormsPublisher\\KafkaWinFormsPublisher\\KafkaWinFormsPublisher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KIIT\\.nuget\\packages\\confluent.kafka\\2.11.0\\confluent.kafka.2.11.0.nupkg.sha512",
+    "C:\\Users\\KIIT\\.nuget\\packages\\librdkafka.redist\\2.11.0\\librdkafka.redist.2.11.0.nupkg.sha512"
+  ],
+  "logs": []
+}
